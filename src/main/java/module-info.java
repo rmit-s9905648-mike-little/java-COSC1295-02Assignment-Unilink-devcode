@@ -1,4 +1,5 @@
-module dev.research.devcode {
+module dev.research.devcode
+{
     requires javafx.controls;
     requires javafx.fxml;
 

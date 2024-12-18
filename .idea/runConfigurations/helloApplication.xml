@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="helloApplication" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="dev.research.devcode.HelloApplication" />
+    <module name="devcode" />
+    <option name="VM_PARAMETERS" value="--module-path $PATH_TO_FX$/lib --add-modules javafx.controls,javafx.fxml" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

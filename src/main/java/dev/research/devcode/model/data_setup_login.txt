@@ -1,0 +1,6 @@
+s1 , Mike, brown
+s2 , Peter, George
+s3 , Ronald , Anderson
+s4 , Andrew, James
+s5 , Janet, Peterson
+s6 , James, Nikki

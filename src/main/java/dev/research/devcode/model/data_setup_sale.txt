@@ -1,0 +1,2 @@
+SAL1,Calculator,s4,OPEN,HP 41 CV for sale,300,0,0,2/3/2021,SALE, 
+SAL2,Calculator,s4,OPEN,Casio Scientific Calculator for sale,300,0,0,15/4/2021,SALE, 

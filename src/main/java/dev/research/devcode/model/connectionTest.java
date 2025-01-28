@@ -42,7 +42,7 @@ public class connectionTest
    	 		 * 1. the database connection string is jdbc:hsqldb:file:database/testDB
    	 		 * 2. ";hsqldb.lock_file=false" is added to allow for the dB to be connected
    	 		 *    	to many clients.
-   	 		 * 3. The User name is "SA"
+   	 		 * 3. The default User name is "SA", but here it is 'DB_NAME = "testDB"'
    	 		 * 4. The password is "".
    	 		 */
    	 				
